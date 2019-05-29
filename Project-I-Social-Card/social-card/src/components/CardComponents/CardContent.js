@@ -7,7 +7,7 @@ function CardContent() {
             <h2>Get started with React</h2>
             <p>React makes it painless to create interactive UIs.
                 Design simple views for each state in your application.</p>
-            <h4>reactjs.org</h4>
+            <a>reactjs.org</a>
         </div>
     )
 }
